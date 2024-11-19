@@ -8,13 +8,13 @@ Each question in ANS gets it's own notebook. These are all very self explanatory
 
 ## Contributions
 The distribution of tasks for this assignment was as follows:
-- **Question 1**:
+- [**Question 1**](./question-1.ipynb):
   * a. [@Matilda](https://github.com/Matilda03)
   * b. [@Tygo](http://redirects.tygo.van.den.hurk.dev/github/personal)
   * c. [@Matilda](https://github.com/Matilda03)
-- **Question 2**: [@Abel](https://github.com/GalambosAbel)
-- **Question 3**: [@Andras](https://github.com/BAndris2)
-- **Question 4**: [@Tygo](http://redirects.tygo.van.den.hurk.dev/github/personal)
-- **Question 5**: [@Matilda](https://github.com/Matilda03)
-- **Question 6**: [@Andras](https://github.com/BAndris2)
-- **Question 7**: [@Abel](https://github.com/GalambosAbel) et. al.
+- [**Question 2**](./question-2.ipynb): [@Abel](https://github.com/GalambosAbel)
+- [**Question 3**](./question-3.ipynb): [@Andras](https://github.com/BAndris2)
+- [**Question 4**](./question-4.ipynb): [@Tygo](http://redirects.tygo.van.den.hurk.dev/github/personal)
+- [**Question 5**](./question-5.ipynb): [@Matilda](https://github.com/Matilda03)
+- [**Question 6**](./question-6.ipynb): [@Andras](https://github.com/BAndris2)
+- [**Question 7**](./question-7.ipynb): [@Abel](https://github.com/GalambosAbel) et. al.
