@@ -7,21 +7,14 @@ This is your first assignment of the Data Mining and Machine learning course. Yo
 Each question in ANS gets it's own notebook. These are all very self explanatory. `question-1.ipynb` is for question 1, `question-2.ipynb` is for question 2, etc. In there the question is copied from ANS and there are code blocks in between where we work on the exercises described below.
 
 ## Contributions
-The distribution of tasks for this assignment is as follows:
-### Question 1
-* a. Matilda
-* b. Tygo
-* c. Matilda
-### Question 2
-* a. Abel
-* b. _Abel?_
-### Question 3
-a, b, c. Andras
-### Question 4
-Tygo
-### Question 5
-Matilda
-### Question 6
-Andras
-### Question 7
-Abel et. al.
+The distribution of tasks for this assignment was as follows:
+- **Question 1**:
+  * a. [@Matilda](https://github.com/Matilda03)
+  * b. [@Tygo](http://redirects.tygo.van.den.hurk.dev/github/personal)
+  * c. [@Matilda](https://github.com/Matilda03)
+- **Question 2**: [@Abel](https://github.com/GalambosAbel)
+- **Question 3**: [@Andras](https://github.com/BAndris2)
+- **Question 4**: [@Tygo](http://redirects.tygo.van.den.hurk.dev/github/personal)
+- **Question 5**: [@Matilda](https://github.com/Matilda03)
+- **Question 6**: [@Andras](https://github.com/BAndris2)
+- **Question 7**: [@Abel](https://github.com/GalambosAbel) et. al.
