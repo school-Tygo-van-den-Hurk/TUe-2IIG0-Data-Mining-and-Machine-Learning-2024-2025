@@ -2,3 +2,4 @@
 # IDE config folders
 .idea
 .vscode
+/.venv/
