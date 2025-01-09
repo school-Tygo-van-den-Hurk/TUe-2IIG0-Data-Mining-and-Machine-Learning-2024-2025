@@ -1,0 +1,4 @@
+# Dependencies of Homework 2
+scikit-learn==1.5.2
+numpy==2.1.3
+scipy==1.14.1
